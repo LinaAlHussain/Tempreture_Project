@@ -1,0 +1,13 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo4 -N"C:\Users\olabu\Desktop\p.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\olabu\Desktop\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "p.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_ADC_A_C.mcl" "__Lib_UART_c67.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	__Lib_Delays.c
+diagnostics: 123	123	Compiled Successfully	__Lib_Delays.c
+diagnostics: 0	122	Compilation Started	p.c
+diagnostics: 34	123	Compiled Successfully	p.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+hint: 0	1144	Used RAM (bytes): 49 (14%)  Free RAM (bytes): 303 (86%)	Used RAM (bytes): 49 (14%)  Free RAM (bytes): 303 (86%)
+hint: 0	1144	Used ROM (program words): 666 (8%)  Free ROM (program words): 7526 (92%)	Used ROM (program words): 666 (8%)  Free ROM (program words): 7526 (92%)
+diagnostics: 0	125	Project Linked Successfully	p.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'p.mcppi' completed: 219 ms	 
+diagnostics: 0	103	Finished successfully: 17 Dec 2022, 15:14:04	p.mcppi
